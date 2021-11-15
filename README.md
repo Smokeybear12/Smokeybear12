@@ -1,6 +1,6 @@
-# Salutations!
+# Salutations! 
 
-Hello! I am currently learning Java; I have no plans to continue with any other language at this point.
+Hello! My name is Andrew, and I am currently learning Java; I have no plans to continue with any other language at this point.
 
 ## In-Progress Projects:
 
