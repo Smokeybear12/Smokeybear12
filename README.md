@@ -30,4 +30,7 @@ Hello! My name is Andrew, and I am currently learning Java; I have no plans to c
 # That's all! Team Rydon on Top!
 <br>
 
+![](https://komarev.com/ghpvc/?username=Smokeybear12&color=green)
+
+
 ![Smokeybear12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smokeybear12&show_icons=true&theme=tokyonight)
