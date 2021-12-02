@@ -33,7 +33,7 @@ Hello! My name is Andrew, and I am currently learning Java; I have no plans to c
 
 ## Completed projects:
 ### FencingF+2 version 1.9.2
-(Download)[https://smokeybear12.github.io/fencingfplus2/v1.9.2] 
+[Download](https://smokeybear12.github.io/fencingfplus2/v1.9.2)
 ### HydraWare cleaning and update
 ### Github pages testing
 
