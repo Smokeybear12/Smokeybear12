@@ -3,18 +3,9 @@
 Hello! My name is Andrew, and I am currently learning Java; I have no plans to continue with any other language at this point.
 
 ## In-Progress Projects:
+### WorldEditCUI-1.18
+#### Converting a 1.16.5 mod to 1.18.
 
-### FencingF+2 (Sort of done)
-#### Minecraft Forge 1.12.2 hacked client.
-##### - First practical 2b2t.org / strict anti-cheat noslow bypass (Now patched)
-##### - AutoPvP module with CrystalPvP capabilities
-##### - Other private modules to be announced!
-
-### JackHeightLimit
-#### Datapack to raise the height of the end dimension.
-##### Almost complete.
-
-### 
 <br>
 
 ## Ideas / Concepts:
@@ -34,8 +25,14 @@ Hello! My name is Andrew, and I am currently learning Java; I have no plans to c
 ## Completed projects:
 ### FencingF+2 version 1.9.2
 [Download](https://smokeybear12.github.io/fencingfplus2/v1.9.2)
+
 ### HydraWare cleaning and update
+
 ### Github pages testing
+[Link to test](https://smokeybear12.github.io/fencingfplus2/)
+
+### JackHeightLimit
+#### Datapack to raise the height of the end dimension.(Can be buggy for survival; works well for creative)
 
 # That's all! Team Rydon on Top!
 <br>
