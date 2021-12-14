@@ -23,8 +23,10 @@ Hello! My name is Andrew, and I am currently learning Java; I have no plans to c
 #### A more realistic idea.
 ##### - I can't share details on this; it's a more private project.
 <br>
-### Java Readee
+
+### Java Reader
 ##### - Also cannot share details.
+<br>
 
 ## Completed projects:
 ### FencingF+2 version 1.9.2
