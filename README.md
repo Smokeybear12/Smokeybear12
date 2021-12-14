@@ -4,9 +4,9 @@ Hello! My name is Andrew, and I am currently learning Java; I have no plans to c
 
 ## In-Progress Projects:
 ### FencingF+2
-#### AutoPvP
-#### New Base
-#### First practical 2b2t gapple NoSlow
+#### - AutoPvP
+#### - New Base
+#### - First practical 2b2t gapple NoSlow
 
 <br>
 
