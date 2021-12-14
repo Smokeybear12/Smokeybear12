@@ -3,8 +3,10 @@
 Hello! My name is Andrew, and I am currently learning Java; I have no plans to continue with any other language at this point.
 
 ## In-Progress Projects:
-### WorldEditCUI-1.18
-#### Converting a 1.16.5 mod to 1.18.
+### FencingF+2
+#### AutoPvP
+#### New Base
+#### First practical 2b2t gapple NoSlow
 
 <br>
 
@@ -21,6 +23,8 @@ Hello! My name is Andrew, and I am currently learning Java; I have no plans to c
 #### A more realistic idea.
 ##### - I can't share details on this; it's a more private project.
 <br>
+### Java Readee
+##### - Also cannot share details.
 
 ## Completed projects:
 ### FencingF+2 version 1.9.2
