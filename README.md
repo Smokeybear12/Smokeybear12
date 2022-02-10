@@ -1,8 +1,11 @@
 # Salutations! 
 
-Hello! My name is Andrew, and I am currently learning Java; I have no plans to continue with any other language at this point.
+Hello! My name is Andrew, and I am currently learning Java and a little of JS. I have no plans to continue with any other language at this point.
 
 ## In-Progress Projects:
+### The ION project
+#### If I make this work then some interesting stuff will happen :trollface:
+
 ### FencingF+2
 #### - AutoPvP
 #### - New Base
